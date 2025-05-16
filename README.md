@@ -18,3 +18,6 @@ Unidades Recorrentes Fechadas (Gated Recurrent Unit - GRU)
 
 # Classificação de Imagens
 Rede Neural Convolucional - Convolutional Neural Network - CNN)
+
+# Algoritmos de Aprenizagem Por Reforço
+Q-Learning
