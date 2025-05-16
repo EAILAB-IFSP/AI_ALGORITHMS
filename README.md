@@ -21,3 +21,5 @@ Rede Neural Convolucional - Convolutional Neural Network - CNN)
 
 # Algoritmos de Aprenizagem Por Reforço
 Q-Learning
+
+<p> <a href="https://eailab-ifsp.github.io/PUBLICATIONS/">Clique Aqui Para Visualizar em HTML</a> <p>
