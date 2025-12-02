@@ -22,4 +22,14 @@ Rede Neural Convolucional - Convolutional Neural Network - CNN)
 # Algoritmos de Aprenizagem Por Reforço
 Q-Learning
 
+# Algoritmos de Aprendizagem em Conjunto (Ensemble Learning)
+Algoritmo Floresta Aleatória (Random Forest - RF)
+
+# Algoritmos de Otimização
+Algoritmo Genético (GA)
+
+# Aprendizado Profundo (Deep Learning)
+Redes Transformadoras (Transformers)
+
+
 <p> <a href="https://eailab-ifsp.github.io/AI_ALGORITHMS/">Clique Aqui Para Visualizar em HTML</a> <p>
